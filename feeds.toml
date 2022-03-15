@@ -1,4 +1,4 @@
-[naver_premium_free]
+[free]
 title = "네이버 프리미엄콘텐츠 ─ 무료 프로모션"
 url = "https://contents.premium.naver.com/"
 entrySelector = "ul.promotion_list._PROMOTION_LIST li.promotion_item"
