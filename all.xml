@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 01:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 24 Mar 2022 01:05:33 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[혹시 내게 무슨 일이 생기면 (2020) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220217192706143mJ</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 23 Mar 2022 15:16:51 GMT</pubDate>
             <content:encoded><![CDATA[스토리와 음악을 조화롭게 만드는 탁월한 연출로 관객의 마음을 사로잡는 '존 카니 감독'은 영화&lt;원스&gt;로 선댄스 영화제 관객상을 시작으로 ‘올해의 영화’로 등극한 후 독립영화상을 수상하고 사운드트랙으로 그래미상 후보, 주제곡 ‘Falling Slowly’로 아카데미 주제가상을 수상했던 감독이다. &lt;비긴 어게인&gt;에서는 뉴욕 거리 곳곳을 배경으로 아름다운 선율 안에 인생과 사랑,]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMTM4/MDAxNjQ3NDMwMDc5ODA0.2RjZRtAS1GsV6EHZC7zaPbhYHAhno9wIiczbK5V-OpIg.aQwSv3Xcxrgi9m27QoMR3kYBC3sVRcX3SRkvdP1Lr5Yg.JPEG/13.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#10. 작아지지 말자. 웅크려들지 말자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220317163910300cY</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220317163910300cY</guid>
-            <pubDate>Wed, 23 Mar 2022 15:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[눈을 감는다 하루에도 여러 번 눈을 감는다 눈을 떴을 때 마주할 감정들이 아프고 무겁고 감당하기 어려워서 억지로 잠을 청한다   그러다 문득 눈을 떴을 때 내가 받아들여야 하는 상황이 조금은 옅어지길 바라면서   눈을 뜬다 다시 눈을 감는다. 요즘은 SNS 상에서도 콘텐츠의 힘을 강조하고 있는 분위기라 그런지, 대학교에서 글쓰기 특강 요청이 많이 들어온다. 오늘도 서울의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMjEw/MDAxNjQ3NTAxOTE1MDM3.1mIOdPVKMDuwARYNfbGrw7Sv_Kkpr6C9JoDTKEgRU14g.7XpLzGU5wI1ACj0aS-n7yGwdjarD4qy73WQFUy4gcpIg.JPEG/%EC%B0%BD%EA%B0%80-%EC%86%8C%EB%85%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
