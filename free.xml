@@ -4,7 +4,7 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 01:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfODgg/MDAxNjQ4NTcyOTU1MDU5.we9KvxU1hEKtxnvTgyJqAXXDT_w6JoW6sUDCyJitvdog.25gpj7baZBgzMO3CICUb-kGRbkYn_t15iC8rLyL11zQg.JPEG/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아무 문장이나 한 문장씩 익힌다고 영어가 늘까요?]]></title>
-            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</link>
-            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</guid>
-            <pubDate>Tue, 05 Apr 2022 15:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날 새로운 표현을 익히게 되면  이런 생각을 하지 않으셨나요? “그래, 이렇게 하루 한 문장씩  새로운 문장을 익히면  몇 년 후엔 영어를 잘 할 수 있을거야.” 이런 생각을 하시는 분들은 많지만, 실제로 한 문장씩 익혀서  영어를 잘 하게 되었다는 분들을  만나기는 쉽지 않습니다. 일단 꾸준히 한 문장씩 익히는 분들을  만나기가 쉽지 않습니다.  (제 주변에만 없는걸까요]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjk5/MDAxNjQ4NjEzMTcyODYy.Ocjuhb4WS1TYHr_wvXym7xTnYDAy2O_g3ohBR7O6PRAg.489rU7g2GBUt5YyrkrqfCNgd5HXI1mr22mmeY2FooVwg.JPEG/n2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[그러려니를 소개합니다.]]></title>
+            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220208220820256rN</link>
+            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220208220820256rN</guid>
+            <pubDate>Wed, 06 Apr 2022 01:10:08 GMT</pubDate>
+            <content:encoded><![CDATA['그런 날', '그런 사람'  당신에게도 왔나요? 시에세이 구독 서비스 ‘그 때, 그 사람이 내게도 있었지...’ 그러려니는 지나쳤지만, 지나치지 않은 날들과 사람들의 이야기입니다.  당신에게도 있을 법한 이야기는 시와 이야기로 풉니다. 주 3회, 당신에게도 마주쳤을 이야기가 ‘그러려니’ 채널을 통해 공개 됩니다. 거리를 걷는 사람들 사이로 함께 발을 맞춰보는 그러려니의 시]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDhfMjk3/MDAxNjQ0MzIyOTM5NzQ0.4lfrb33jHVK_pqGaZX0ofwY5IG9C64PXVGTdECWdv1og.5XzJ8Gfzd-_rfX2MnzATEj5ZbjDm3rmd2melFLQJn98g.JPEG/1_%ED%94%84%EB%A1%9C%ED%95%84_%EC%84%B8%EB%A1%9C%ED%8F%B0%ED%8A%B8%EC%B6%94%EA%B0%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
