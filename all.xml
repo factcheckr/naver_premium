@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 15:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 16:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 08 Apr 2022 16:23:03 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[경제 기초교양] #2 중앙은행 금융정책이 어떻게 경기 살릴까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/solution/center/contents/220331162619286bm</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 08 Apr 2022 15:17:08 GMT</pubDate>
             <content:encoded><![CDATA[스웨덴 드라마 ‘퀵 샌드 : 나의 다정한 마야’ – 에 대하여  &lt;퀵 샌드 : 나의 다정한 마야&gt;는 스웨덴의 웹 TV 범죄 드라마 시리즈이다. 총 6개의 에피소드로 이루어져 있으며, 우리나라에선 생소한 배우인 한나 아르덴과 펠릭스 산드만이 주연을 맡았다. &lt;퀵 샌드 : 나의 다정한 마야&gt;는 스웨덴 작가 말린 페르손 졸리토 동명의 소설 &lt;Quicksand&gt;을 기반으로 제작되었다. 넷플릭스에서]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMTIy/MDAxNjQ4MTc5NzQ2NjAy.8mVZqLLgvVKVJCJ2PkaNuDLVjv-XheXWlYit1FOUg40g.swrUIcUuxMvt6Cq9ficXPPt59T6JnqWBnbCRrcTvNwAg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(5).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사는 어쩌다 짝퉁을 팔게 됐나 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/220408100955194lw</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220408100955194lw</guid>
-            <pubDate>Fri, 08 Apr 2022 15:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[무신사와 크림의 가품 논쟁이 끝을 맺었다. 크림은 지난1일 피어오브갓 측에 의뢰한 결과, 무신사가 판매한 에센셜 티셔츠가 가품임을 판정 받았다고 밝혔다. 관련기사: 크림, 무신사 피어오브갓 상품 본사에서 가품으로 확인 그렇다면 무신사는 어쩌다 가품을 유통하게 됐을까? 이번 논란에서 무신사는 속아서 가품을 판매한 피해자일까, 아니면 가품 유통을 방조한 가해자일까]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjY2/MDAxNjQ5Mzc4NTEzNTUx.w4DY04uhoHtODuw6n4_3laJV44tvB_Q4Jr4lR39-AZUg.a_sk943nt8Jbcxh92L0eTCuY-d5SfoCovHCkfzFV7FEg.JPEG/%EB%AC%B4%EC%8B%A0%EC%82%AC_.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
