@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 12:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 13:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMjI4/MDAxNjQ2ODg0OTI4MzI3.dmsDNQBy93oVAKdFIjkLmANX0UsIHFt0rC6KRKAXh6Mg.mnY6GG5yj1z7sZhjhGt4LTIhUE6dAPrulZuDiK_Iql4g.JPEG/9._%EB%91%90%EC%82%B0%EC%A4%91%EA%B3%B5%EC%97%85_%EB%B0%B0%EA%B2%BD.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파리지옥은 꽃가루를 어떻게 전할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220420161738421BM</link>
-            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220420161738421BM</guid>
-            <pubDate>Thu, 28 Apr 2022 12:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[식물이 번식을 하는 가장 흔한 방법은 곤충을 통해 꽃가루를 옮기는 방식입니다. 그렇다면 곤충을 잡아먹는 식충식물인 파리지옥은 어떻게 번식하는 걸까요? 파리지옥이 꽃가루를 옮기는 과정을 알아보겠습니다. 파리지옥이 꽃가루받이를 하는 과정을 알기 위해서는 파리지옥이 곤충을 사냥하는 방법을 먼저 알아야 합니다. 파리지옥은 광합성을 하는 평범한(?) 잎과 덫의 역할]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfNzIg/MDAxNjUwNDM4ODUwODg1.GN206uaSRQNF5eZnUWaoHfYXV7rri9jqn1I_Yh7vdiAg.WkxBSR8jdcsSaSUvLMBd8XSFA9SLYoELCM8wmF030eIg.PNG/sci-1804-%ED%8E%80%ED%8E%80%EC%9E%A1%ED%95%99%EC%82%AC%EC%A0%84-ok.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[쑥라떼와 비의 시간 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/soso/cafe/contents/220414224029974GI</link>
+            <guid>https://contents.premium.naver.com/soso/cafe/contents/220414224029974GI</guid>
+            <pubDate>Thu, 28 Apr 2022 13:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 카페의 시간에 와주셔서 감사합니다 :)]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMzgg/MDAxNjQ5OTQzMTA1ODQy.-b2j2ZXtwB40BVmDRjXzrdPeTnf5okaNYjYI7w_lm5Ug.LACOypcjJphbYRj74DWhCzIZVU48CeClGgJ8Q-rby_sg.JPEG/%ED%98%BC%EB%8F%8C%EC%B9%B4_03_06.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
