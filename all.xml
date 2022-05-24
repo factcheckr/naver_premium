@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 16:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 24 May 2022 16:32:17 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 24 May 2022 15:18:53 GMT</pubDate>
             <content:encoded><![CDATA[배당공격수, 미드필더, 골키퍼 등 투자 성향에 맞는 배당주를~ 매월 어떤 배당주를 사야할지 고민했다면? 지금 영상을 주목하세요! 미식가가 선정한 5월 배당매력주 ● 배당 골키퍼 : 코테라에너지 (CTRA) 배당주 골키퍼의 특징 보수적인 투자자나 매월 안정적인 현금 수입이 필요한 은퇴자에게 적합 배당률 3% ~ 8% 주가 변동성이 낮아 투자자가 편안하게 장기 투자가 가능하도록 함]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTM4/MDAxNjUyODQ0MjY1MjY5.yYGCFz3Xqot1UPOj-LkHGbKWDGy_ksdPxYWKcSUBYfEg.Ml-lsw9q6SkaGEt801unEtcxVHKA3932ifJ87ECZYqEg.JPEG/american-public-power-association-bv2pvCGMtzg-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우유국밥'과 '콜라국밥', 여러분의 선택은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/khan/geul/contents/220302174532665RH</link>
-            <guid>https://contents.premium.naver.com/khan/geul/contents/220302174532665RH</guid>
-            <pubDate>Tue, 24 May 2022 15:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[2학년이 됐다. '수컷'들의 난폭함은 절정에 달했다. '중이병'이라는 말이 그냥 나온 게 아니다 싶었다. 학교는 ‘무법천지’를 방불케했다. 우리 반(12반)뿐만 아니라 모든 반이 다 그랬다.(14반까지 있었다) 쉬는 시간이면 교실 곳곳에서 싸움판이 벌어졌다. “와” 소리가 나서 달려가 보면 어느새 둘이 치고박고 있었다. 심지어 여러 반에서 동시에 싸움이 터져 '구경꾼'들은 어느]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMjQ2/MDAxNjQ2MjEwNjI2MjMx.OBu96RQb1NPu_qn0a5DMGEViMdS3ftY4EZ9-Ka5Y8BQg.G-Giwqq0AYowuqiQnhsX1VbP_mPL7xcKnJ13vNc4saYg.JPEG/20091101010065.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
